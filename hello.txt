@@ -1,1 +1,2 @@
-Hello GitHub!
+Hello EveryOne!
+This a GitHub platform which is useful to show-case your projects.
